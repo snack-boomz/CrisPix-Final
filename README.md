@@ -1,7 +1,7 @@
 # CrisPix-Final
 
 
-![CrisPix-cover-image](https://github.com/snack-boomz/CrisPix-Final/blob/master/app/cover.png)
+![CrisPix-cover-image](https://github.com/snack-boomz/CrisPix-Final/blob/main/app/cover.png)
 
 CrisPix is an elegant Ultra-HD photo bin alternative, built to provide a medium for users, stakeholders and companies around the world to connect and collaborate with professional photographers and their portfolio of work. See the world through others.
 
