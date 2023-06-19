@@ -1,4 +1,4 @@
-# CrisPix
+# CrisPix-Final
 
 
 ![CrisPix-cover-image](https://github.com/snack-boomz/CrisPix-Final/blob/master/app/cover.png)
