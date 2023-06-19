@@ -18,7 +18,7 @@ CrisPix is an elegant Ultra-HD photo bin alternative, built to provide a medium 
 
 1. Download the files, which when unzipped will provide you a folder of the files.
 2. Open this folder in your IDE (Integrated Development Environment) of your choice. Some options include Visual Studio Code, PyCharm, or a Code/text editor such as Sublime Text or Atom.
-3. In the provided terminal within the IDE (If you're using sublime text or Atom, ensure to open a separate terminal and change to the project directory, i.e. `cd ~/Downloads/sdi-blended-project2-scaffold` or `cd C:\Users\<Your Username>\Downloads\sdi-blended-project2-scaffold`
+3. In the provided terminal within the IDE (If you're using sublime text or Atom, ensure to open a separate terminal and change to the project directory, i.e. `cd ~/Downloads/CrisPix-Final` or `cd C:\Users\<Your Username>\Downloads\CrisPix-Final`
 4. Ensure you have nodejs and NPM installed on your computer before proceeding.
 5. To install the required dependencies to run the application, change to the `app` directory (`cd C:\Users\<Your 
 Username>\Downloads\CrisPix-Final\app or ~/Downloads/CrisPix-Final/app`), run the command `npm install` ; This is 
