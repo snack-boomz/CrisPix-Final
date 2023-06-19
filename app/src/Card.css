@@ -1,0 +1,54 @@
+.setInfo {
+    visibility: visible;
+}
+
+.hideInfo {
+    visibility: hidden;
+}
+
+.isOpaque {
+    opacity: 0.8;
+}
+
+.notOpaque {
+    opacity: 1;
+}
+
+.favButton{
+    height: 30px;
+    width: 30px;
+    box-shadow: inset 100px 5px 5px black;
+    border-radius: 100px;
+}
+
+.favButton:hover {
+    box-shadow: inset 100px 10px 10px lightgray;
+}
+
+
+.downloadButton {
+    height: 30px;
+    width: 30px;
+    box-shadow: inset 100px 5px 5px black;
+    border-radius: 5px;
+}
+.downColorButton {
+    text-decoration-color: white;
+    color:white;
+}
+.downColorButton:link {
+    text-decoration-color: white;
+    color: white;
+}
+
+.downloadButton:hover {
+    box-shadow: inset 100px 10px 10px lightgray;
+}
+
+.yellowButton {
+    height: 30px;
+    width: 30px;
+    box-shadow: inset 100px 5px 5px black;
+    border-radius: 100px;
+    color: yellow;
+}
